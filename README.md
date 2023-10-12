@@ -14,13 +14,16 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-binara&show_icons=true&locale=en&layout=compact" alt="d-binara" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-binara&show_icons=true&locale=en" alt="d-binara" /></p>
+## 📱 Contact
 <p>
-<img alt=”React” src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt=”React” src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-  <img alt=”React” src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-  <img alt=”React” src=""/>
-  <img alt=”React” src=""/>
-  <img alt=”React” src=""/>
-  <img alt=”React” src=""/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </p>
+## 💻 OS
+<p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
 
