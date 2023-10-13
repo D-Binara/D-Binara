@@ -14,18 +14,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-binara&show_icons=true&locale=en&layout=compact" alt="d-binara" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-binara&show_icons=true&locale=en" alt="d-binara" /></p>
-## 📱 Contact
+<h3> 📱 Contact </h3>
 <p>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </p>
-## 💻 OS
+<h3> 💻 OS </h3>
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-## 👨 Social
+<h3> 👨 Social </h3>
 <p>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> 
