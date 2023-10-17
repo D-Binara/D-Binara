@@ -35,4 +35,26 @@
 <a href=""><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /> </a>
 <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> 
 </p>
-
+<h3> 💻 Workspace Specs </h3>
+<p>
+<a href=""><img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> </a> 
+</p>
+<h3> 🎮 Games </h3>
+<p>
+<a href=""><img src="https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=Activision&logoColor=white" /> </a> 
+<a href=""><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" /> </a> 
+<a href=""><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" /></a>
+ <a href=""><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> </a>
+</p>
+<h3> 🔗 Blockchain</h3>
+<p>
+<a href=""><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> </a> 
+<a href=""><img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" /> </a> 
+<a href=""><img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" /> </a> 
+</p>
+<h3> ⚡ Database</h3>
+<p>
+<a href=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> </a> 
+<!-- <a href=""><img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" /> </a> 
+<a href=""><img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" /> </a>  -->
+</p>
