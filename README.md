@@ -6,7 +6,9 @@
   </h1>
 </div>
 
-<h3 align="center">Welcome to my GitHub profile! I'm a budding software engineer with a passion for mastering the world of full stack development. As a newcomer to the field, I'm excited to embark on a journey of learning, growth, and creativity. Through my GitHub projects, you'll witness my commitment to honing my skills and creating innovative solutions that span from front-end design to back-end functionality. Join me as I document my progress and contribute to the dynamic landscape of software development</h3>
+<div align="center">
+  <h3>Welcome to my GitHub profile! I'm a budding software engineer with a passion for mastering the world of full stack development. As a newcomer to the field, I'm excited to embark on a journey of learning, growth, and creativity. Through my GitHub projects, you'll witness my commitment to honing my skills and creating innovative solutions that span from front-end design to back-end functionality. Join me as I document my progress and contribute to the dynamic landscape of software development</h3>
+  <div>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -47,9 +49,11 @@
   </a>
 </div>
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-binara&show_icons=true&locale=en&layout=compact" alt="d-binara" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-binara&show_icons=true&locale=en" alt="d-binara" /></p> 
+-->
+
 <h3> 📱 Contact </h3>
 <p>
 <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
