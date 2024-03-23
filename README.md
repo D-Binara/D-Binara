@@ -50,8 +50,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-Binara&theme=slateorange" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D-Binara&theme=slateorange" />
   </a>
-</div>
+</div><br>
 
+<!--stackOverfolw-->
+<h3> Stack Overflow </h3>
+
+[![Binara Kaveesha StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=22188638&layout=compact&theme=dark)](https://stackoverflow.com/users/22188638/d-binara)
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-binara&show_icons=true&locale=en&layout=compact" alt="d-binara" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-binara&show_icons=true&locale=en" alt="d-binara" /></p> 
@@ -114,3 +118,4 @@
 </p>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
