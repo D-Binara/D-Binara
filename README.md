@@ -1,4 +1,5 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=D-Binara!&fontAlign=80&fontAlignY=40&color=gradient)
+<img align="center" src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="width: 1000px;" />
+
 
 <div align="center">
   <h1>
