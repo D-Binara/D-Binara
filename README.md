@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=D-Binara!&fontAlign=80&fontAlignY=40&color=gradient)
+
 <div align="center">
   <h1>
     <a href="https://github.com/D-Binara">
