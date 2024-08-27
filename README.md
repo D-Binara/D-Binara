@@ -1,4 +1,6 @@
-<img align="center" src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="width: 1000px;" />
+<div align="center">
+  <img src="./36098.gif" style="width: 500px;" />
+</div>
 
 
 <div align="center">
