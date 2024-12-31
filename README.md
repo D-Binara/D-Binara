@@ -28,55 +28,54 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+<!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,aws,bash,bootstrap,c,css,dart,django,docker,figma,firebase,flask,flutter,gcp,git,github,gradle,html,java,js,laravel,latex,mongodb,mysql,nextjs,nodejs,npm,php,postman" />
-  </a>
-<!-- Basic Languages and Tools -->
+  </a> -->
+<h5>Basic Languages and Tools<h5>
 <p>
   <img src="https://skillicons.dev/icons?i=bash,c,css,html" />
 </p>
 
-<!-- Enterprise and Full-Stack Development -->
+<h5>Enterprise and Full-Stack Development <h5>
 <p>
   <img src="https://skillicons.dev/icons?i=php,java,python,js" />
 </p>
 
-<!-- Frameworks and Libraries -->
+<h5>Frameworks and Libraries<h5>
 <p>
   <img src="https://skillicons.dev/icons?i=django,flask,laravel,bootstrap,flutter,nextjs" />
 </p>
-
-<!-- DevOps and Cloud Platforms -->
+  
+<h5>DevOps and Cloud Platforms <h5>
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,gradle" />
 </p>
 
-<!-- Database and Backend -->
+<h5>Database and Backend <h5>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs" />
 </p>
 
-<!-- Package Managers and Tools -->
+<h5> Package Managers and Tools<h5>
 <p>
   <img src="https://skillicons.dev/icons?i=npm,postman" />
 </p>
 
-<!-- UI/UX Design -->
+<h5> UI/UX Design <h5>
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-<!-- Version Control -->
-<p>
+<h5>Version Control <h5>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-<!-- Mobile Development -->
+<h5> Mobile Development <h5>
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter" />
 </p>
 
-<!-- Data Science and Machine Learning -->
+<h5> Data Science and Machine Learning -<h5>
 <p>
   <img src="https://skillicons.dev/icons?i=anaconda" />
 </p>
