@@ -29,8 +29,63 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,bash,bootstrap,c,css,dart,django,docker,figma,firebase,flask,flutter,gcp,git,github,gradle,html,java,js,laravel,latex,mongodb,mysql,nestjs,nodejs,npm,php,postman" />
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,bash,bootstrap,c,css,dart,django,docker,figma,firebase,flask,flutter,gcp,git,github,gradle,html,java,js,laravel,latex,mongodb,mysql,nextjs,nodejs,npm,php,postman" />
   </a>
+<!-- Basic Languages and Tools -->
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,c,css,html" />
+</p>
+
+<!-- Enterprise and Full-Stack Development -->
+<p>
+  <img src="https://skillicons.dev/icons?i=php,java,python,js" />
+</p>
+
+<!-- Frameworks and Libraries -->
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel,bootstrap,flutter,nextjs" />
+</p>
+
+<!-- DevOps and Cloud Platforms -->
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,gradle" />
+</p>
+
+<!-- Database and Backend -->
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs" />
+</p>
+
+<!-- Package Managers and Tools -->
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,postman" />
+</p>
+
+<!-- UI/UX Design -->
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+<!-- Version Control -->
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<!-- Mobile Development -->
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
+
+<!-- Data Science and Machine Learning -->
+<p>
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+</p>
+
+<!-- Miscellaneous -->
+<p>
+  <img src="https://skillicons.dev/icons?i=latex" />
+</p>
+
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
