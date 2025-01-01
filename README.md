@@ -38,17 +38,22 @@
 
 <h5>Enterprise and Full-Stack Development <h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=php,java,python,js,ts,dart" />
 </p>
 
 <h5>Frameworks and Libraries<h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,laravel,bootstrap,flutter,nextjs" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vite,nextjs,spring,django,flask,laravel" />
 </p>
-  
+
+<h5> Mobile Development <h5>
+<p>
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter" />
+</p>
+
 <h5>DevOps and Cloud Platforms <h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,gradle" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
 </p>
 
 <h5>Database and Backend <h5>
@@ -70,26 +75,9 @@
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-<h5> Mobile Development <h5>
+Others
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" />
-</p>
-
-<h5> Data Science and Machine Learning -<h5>
-<p>
-  <img src="https://skillicons.dev/icons?i=anaconda" />
-</p>
-
-<!-- Miscellaneous -->
-<p>
-  <img src="https://skillicons.dev/icons?i=latex" />
-</p>
-
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,py,react,spring,tailwind,ts,vim,vite" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=latex,powershell,vim,gradle,anaconda" />
 </p>
 
 <h3> 💻 OS </h3>
