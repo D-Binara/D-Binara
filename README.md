@@ -48,7 +48,7 @@
 
 <h5> Mobile Development </h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=react-native,flutter" />
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter" />
 </p>
 
 <h5>DevOps and Cloud Platforms </h5>
