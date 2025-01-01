@@ -31,53 +31,53 @@
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,aws,bash,bootstrap,c,css,dart,django,docker,figma,firebase,flask,flutter,gcp,git,github,gradle,html,java,js,laravel,latex,mongodb,mysql,nextjs,nodejs,npm,php,postman" />
   </a> -->
-<h5>Basic Languages and Tools<h5>
+<h5>Programming Languages<h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=bash,c,css,html" />
+  <img src="https://skillicons.dev/icons?i=c,dart,java,js,php,python,ts" />
 </p>
 
-<h5>Enterprise and Full-Stack Development <h5>
+<h5>Frontend Technologies</h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,java,python,js,ts,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,materialui" />
 </p>
 
-<h5>Frameworks and Libraries<h5>
+<h5>Frameworks and Libraries</h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vite,nextjs,spring,django,flask,laravel" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vite,nextjs,express,nodejs,spring,django,flask,laravel,fastapi" />
 </p>
 
-<h5> Mobile Development <h5>
+<h5> Mobile Development </h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter" />
+  <img src="https://skillicons.dev/icons?i=react-native,flutter" />
 </p>
 
-<h5>DevOps and Cloud Platforms <h5>
+<h5>DevOps and Cloud Platforms </h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker" />
 </p>
 
-<h5>Database and Backend <h5>
+<h5>Database</h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </p>
 
-<h5> Package Managers and Tools<h5>
+<h5> APIs & Web Services </h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=npm,postman" />
+  <img src="https://skillicons.dev/icons?i=postman,firebase" />
 </p>
 
-<h5> UI/UX Design <h5>
+<h5> UI/UX Design </h5>
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-<h5>Version Control <h5>
+<h5>Version Control </h5>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-Others
+<h5>Others</h5>
 <p>
-  <img src="https://skillicons.dev/icons?i=latex,powershell,vim,gradle,anaconda" />
+  <img src="https://skillicons.dev/icons?i=latex,powershell,npm,gradle,anaconda" />
 </p>
 
 <h3> 💻 OS </h3>
@@ -90,7 +90,7 @@ Others
 <h3> 👩‍💻 IDE</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,phpstorm,pycharm,vscode,webstorm" />
+    <img src="https://skillicons.dev/icons?i=vim,androidstudio,idea,phpstorm,pycharm,webstorm,vscode" />
   </a>
 </p>
 
